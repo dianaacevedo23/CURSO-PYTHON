@@ -1,0 +1,25 @@
+Estas son las aplicaciones y prácticas que se realizarán en esta sección.
+
+Aplicación 01: Mostrar datos por pantalla
+
+Enunciado: Muestra los datos personales por pantalla.
+
+Análisis: Para solucionar este problema se requieren variables definidas con sus respectivos datos y luego mostrar esos datos de diferentes formas.
+
+Aplicación 02: Suma de dos números enteros
+
+Enunciado:Dado dos números enteros, hallar la suma.
+
+Análisis: Para la solución de este problema, se requiere que el usuario ingrese dos números enteros y el sistema realice el cálculo respectivo para hallar la suma, para esto usará la siguiente expresión.
+
+Práctica 01: Calcular cociente y el residuo de dos números enteros
+
+Enunciado: Hallar el cociente y el residuo (resto) de dos números enteros.
+
+Análisis: Para la solución de este problema, se requiere que el usuario ingrese dos números enteros y el sistema realice el cálculo respectivo para hallar el cociente y residuo, para esto use la siguiente expresión.
+
+Práctica 02: Calcular el Precio de Venta
+
+Enunciado:** Dado el valor de venta de productos, hallar el IGV (18%) y el precio de venta.
+
+Análisis: Para la solución de este problema, se requiere que el usuario ingrese el valor de venta del producto y el sistema realice el cálculo respectivo para hallar el IGV y el precio de venta, para esto use la siguiente expresión.
